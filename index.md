@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<body>
+<center>
+  <p><b>个人简历</b></p>
+  <table cellpadding="0" cellspacing="0" border="1">
+    <tr>
+      <td width="64" height="33">姓名</td>
+      <td width="109">张艳梅</td>
+      <td width="73">性别</td>
+      <td width="46">女</td>
+      <td width="112">民族</td>
+      <td width="159">汉族</td>
+      <td width="154" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
+    </tr>
+    <tr>
+      <td height="31">身高</td>
+      <td>157cm</td>
+      <td>体重</td>
+      <td>60kg</td>
+      <td>政治面貌</td>
+      <td>预备党员</td>
+    </tr>
+    <tr>
+      <td height="31">学制</td>
+      <td>四年制</td>
+      <td>学历</td>
+      <td>本科</td>
+      <td>毕业时间</td>
+      <td>2020.07</td>
+    </tr>
+    <tr>
+      <td height="46">户籍</td>
+      <td colspan="3">山西省</td>
+      <td>出生年月</td>
+      <td>1998.07.28</td>
+    </tr>
+    <tr>
+      <td height="39">专业</td>
+      <td>计算机科学与技术</td>
+      <td>毕业学校</td>
+      <td colspan="2">哈尔滨师范大学</td>
+      <td>就业范围</td>
+      <td>全国</td>
+    </tr>
+    <tr>
+      <td height="39">外语水平</td>
+      <td colspan="3"><p>四级</p></td>
+      <td>计算机水平</td>
+      <td colspan="2"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
+    </tr>
+    <tr>
+      <td><p >奖励情况</p></td>
+      <td colspan="6"><p >担任飞翔合唱团13级负责人 </p>
+        <p >2014年3月获得&#8220;青歌赛&#8221;民族业余组一等奖。 </p>
+        </td>
+    </tr>
+    <tr>
+      <td><p >通讯地址</p></td>
+       <td colspan="4"><p >哈尔滨师范大学</p></td>
+      <td><p >联系电话</p></td>
+      <td><p >13263662753</p></td>
+    </tr>
+    <tr>
+      <td><p >E-mail</p></td>
+      <td colspan="3"><p >2256704344@qq.com</p></td>
+      <td>邮编</td>
+      <td>150000</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="28" colspan="7">教育经历</td>
+    </tr>
+    <tr>
+      <td colspan="7"><p >2010年9月至2013年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初中学习</p></td>
+    </tr>
+    <tr>
+      <td colspan="7"><p >2013年9月至2016年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高中学习</p></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  
+</center>
 
-You can use the [editor on GitHub](https://github.com/zym0728/zym0728.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</body> 
+  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zym0728/zym0728.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
