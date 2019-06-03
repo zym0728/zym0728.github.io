@@ -9,7 +9,7 @@
       <td width="46">女</td>
       <td width="112">民族</td>
       <td width="159">汉族</td>
-      <td width="154" rowspan="4"><p ><img src="xyz.jpg" width="50" height="50" /></p></td>
+      <td width="154" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
     </tr>
     <tr>
       <td height="31">身高</td>
@@ -49,8 +49,8 @@
     </tr>
     <tr>
       <td><p >奖励情况</p></td>
-      <td><p >担任飞翔合唱团13级负责人 </p>
-        
+      <td colspan="6"><p >担任飞翔合唱团13级负责人 </p>
+        <p > </p>
         </td>
     </tr>
     <tr>
