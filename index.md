@@ -4,12 +4,12 @@
   <table cellpadding="0" cellspacing="0" border="1">
     <tr>
       <td width="64" height="33">姓名</td>
-      <td width="109">张艳梅</td>
-      <td width="73">性别</td>
+      <td width="80">张艳梅</td>
+      <td width="60">性别</td>
       <td width="46">女</td>
       <td width="112">民族</td>
-      <td width="159">汉族</td>
-      <td width="154" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
+      <td width="100">汉族</td>
+      <td width="180" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
     </tr>
     <tr>
       <td height="31">身高</td>
