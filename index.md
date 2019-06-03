@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td><p >E-mail</p></td>
-      <td colspan="3"><p >2256704344@qq.com</p></td>
+      <td colspan="2"><p >2256704344@qq.com</p></td>
       <td>邮编</td>
       <td>150000</td>
       <td>&nbsp;</td>
