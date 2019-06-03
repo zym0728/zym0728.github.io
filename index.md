@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td><p >通讯地址</p></td>
-       <td colspan="4"><p >哈尔滨师范大学</p></td>
+       <td colspan="2"><p >哈尔滨师范大学</p></td>
       <td><p >联系电话</p></td>
       <td><p >13263662753</p></td>
     </tr>
