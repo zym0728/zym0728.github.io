@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><p >奖励情况</p></td>
-      <td colspan="6"><p >担任飞翔合唱团13级负责人 </p>
+      <td colspan="6"><p >优秀团员 </p>
         <p > </p>
         </td>
     </tr>
