@@ -9,7 +9,7 @@
       <td width="46">女</td>
       <td width="112">民族</td>
       <td width="100">汉族</td>
-      <td width="180" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
+      <td width="156" rowspan="6"><p ><img src="xyz.jpg" width="100" height="100" /></p></td>
     </tr>
     <tr>
       <td height="31">身高</td>
