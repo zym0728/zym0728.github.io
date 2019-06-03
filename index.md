@@ -4,12 +4,12 @@
   <table cellpadding="0" cellspacing="0" border="1">
     <tr>
       <td width="64" height="33">姓名</td>
-      <td width="80">张艳梅</td>
-      <td width="60">性别</td>
+      <td width="109">张艳梅</td>
+      <td width="73">性别</td>
       <td width="46">女</td>
       <td width="112">民族</td>
-      <td width="100">汉族</td>
-      <td width="156" rowspan="6"><p ><img src="xyz.jpg" width="100" height="100" /></p></td>
+      <td width="159">汉族</td>
+      <td width="154" rowspan="4"><p ><img src="xyz.jpg" width="90" height="100" /></p></td>
     </tr>
     <tr>
       <td height="31">身高</td>
@@ -42,26 +42,26 @@
       <td>全国</td>
     </tr>
     <tr>
-      <td height="20">外语水平</td>
-      <td colspan="1"><p>四级</p></td>
+      <td height="39">外语水平</td>
+      <td colspan="3"><p>四级</p></td>
       <td>计算机水平</td>
-      <td colspan="3"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
+      <td colspan="2"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
     </tr>
     <tr>
       <td><p >奖励情况</p></td>
-      <td colspan="4"><p >优秀团员 </p>
-        <p > </p>
+      <td colspan="6"><p >优秀团员 </p>
+        <p >校二等奖学金 </p>
         </td>
     </tr>
     <tr>
       <td><p >通讯地址</p></td>
-       <td colspan="2"><p >哈尔滨师范大学</p></td>
+       <td colspan="4"><p >哈尔滨师范大学</p></td>
       <td><p >联系电话</p></td>
       <td><p >13263662753</p></td>
     </tr>
     <tr>
       <td><p >E-mail</p></td>
-      <td colspan="2"><p >2256704344@qq.com</p></td>
+      <td colspan="3"><p >2256704344@qq.com</p></td>
       <td>邮编</td>
       <td>150000</td>
       <td>&nbsp;</td>
