@@ -43,13 +43,13 @@
     </tr>
     <tr>
       <td height="39">外语水平</td>
-      <td colspan="3"><p>四级</p></td>
+      <td colspan="2"><p>四级</p></td>
       <td>计算机水平</td>
-      <td colspan="2"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
+      <td colspan="3"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
     </tr>
     <tr>
       <td><p >奖励情况</p></td>
-      <td colspan="6"><p >优秀团员 </p>
+      <td colspan="4"><p >优秀团员 </p>
         <p > </p>
         </td>
     </tr>
